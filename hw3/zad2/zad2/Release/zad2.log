@@ -1,0 +1,7 @@
+﻿  kravi.cpp
+d:\documents\uni\2 курс\сда\hw3\zad2\zad2\kravi.cpp(49): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+d:\documents\uni\2 курс\сда\hw3\zad2\zad2\kravi.cpp(55): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\documents\uni\2 курс\сда\hw3\zad2\zad2\kravi.cpp(64): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  zad3.cpp
+kravi.obj : error LNK2005: _main already defined in kravi.obj
+D:\Documents\uni\2 курс\СДА\hw3\zad2\Release\zad2.exe : fatal error LNK1169: one or more multiply defined symbols found

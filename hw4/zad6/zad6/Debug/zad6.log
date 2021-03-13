@@ -1,0 +1,4 @@
+﻿  zad6.cpp
+test.obj : error LNK2005: _main already defined in take2.obj
+zad6.obj : error LNK2005: _main already defined in take2.obj
+D:\Documents\uni\2 курс\СДА\hw4\zad6\Debug\zad6.exe : fatal error LNK1169: one or more multiply defined symbols found

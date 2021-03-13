@@ -1,0 +1,3 @@
+﻿  searching.cpp
+d:\documents\uni\2 курс\сда\upr\upr3\upr3\searching.cpp(70): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  upr3.vcxproj -> D:\Documents\uni\2 курс\СДА\upr\upr3\Debug\upr3.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\documents\uni\2_курс\сда\graphimplementation\graphimplementation\source.cpp(79): warning C4018: '<': signed/unsigned mismatch
+d:\documents\uni\2_курс\сда\graphimplementation\graphimplementation\source.cpp(111): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open D:\Documents\uni\2_курс\СДА\graphImplementation\Debug\graphImplementation.exe for writing

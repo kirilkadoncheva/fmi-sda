@@ -1,0 +1,4 @@
+﻿  podgotovka.cpp
+d:\documents\uni\2_курс\сда\podgotovka\podgotovka\podgotovka.cpp(95): warning C4018: '<': signed/unsigned mismatch
+d:\documents\uni\2_курс\сда\podgotovka\podgotovka\podgotovka.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  podgotovka.vcxproj -> D:\Documents\uni\2_курс\СДА\podgotovka\Debug\podgotovka.exe

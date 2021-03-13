@@ -1,0 +1,2 @@
+﻿zad3.obj : error LNK2005: _main already defined in kravi.obj
+D:\Documents\uni\2 курс\СДА\hw3\zad2\Debug\zad2.exe : fatal error LNK1169: one or more multiply defined symbols found

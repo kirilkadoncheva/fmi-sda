@@ -1,0 +1,4 @@
+﻿  darts.cpp
+problem3.obj : error LNK2005: _main already defined in darts.obj
+problem4.obj : error LNK2005: _main already defined in darts.obj
+D:\Documents\uni\2 курс\СДА\hw1\hw1\Debug\hw1.exe : fatal error LNK1169: one or more multiply defined symbols found
